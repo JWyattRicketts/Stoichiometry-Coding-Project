@@ -7,7 +7,7 @@
   </head>
   <body>
     <h1><center>Stoichometry Calculator</center></h1>
-      <form
+      <form id = "form1"></f
   </body>
   <style>
   
